@@ -1,0 +1,6 @@
+@import "./theme.css";
+
+/* Custom styles can go here */
+body {
+  min-height: 100vh;
+}
