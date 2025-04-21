@@ -77,6 +77,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Mohit Singh - [@mohitsingh021](https://twitter.com/mohitsingh021) - mohitsingh21112004@gmail.com
+
 Sumit Kumar Yadav - [@yadavsk07](https://twitter.com/yadav_sk07) - kumar.sumit07092003@gmail.com
 
 Project Link: [https://github.com/mohitsingh021/eventure](https://github.com/mohitsingh021/eventure)
